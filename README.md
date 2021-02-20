@@ -1,2 +1,0 @@
-# AndroidTEST
-# Olimp
